@@ -1,3 +1,6 @@
+const tableInfo = require("./tableInfo");
+const waitinglistInfo = require("./waitinglistInfo");
+
 // Dependencies
 // =============================================================
 
